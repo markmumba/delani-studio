@@ -1,0 +1,54 @@
+@font-face {
+    src: url(../fonts/Montserrat/Montserrat-Light.ttf);
+    font-family: mon;
+}
+
+#upper {
+    background-image: url(../assets/backgrounds/h_img.jpg);
+    text-align: center;
+    color: white;
+    height: 800px;
+    font-family: mon;
+    font-size: 40px;
+}
+
+#small {
+    font-size: 10px;
+    text-align: right;
+    color: azure;
+}
+
+.upper-part p {
+    text-align: center;
+    color: azure;
+    font-size: 40px;
+}
+
+image {
+    align-self: center;
+}
+
+p1 {
+    text-align: center;
+    color: azure;
+}
+
+.about-us {
+    text-align: center;
+    color: black;
+}
+
+.about-us p {
+    font-size: 20px;
+    font-family: mon;
+}
+
+.third-part {
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    background-size: 100%;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    font-family: mon;
+    color: azure;
+}
