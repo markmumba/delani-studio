@@ -52,8 +52,14 @@ p1 {
     font-family: mon;
     color: azure;
 }
+h3{
+    text-align: center;
+    font-family: mon;
+    font-size: 40px;
+}
 .style {
-    font-size: 20px;
+    font-size: 18px;
+    font-family: mon;
     
 }
 #pen{
@@ -64,5 +70,13 @@ p1 {
     text-align: center
 }
 .klopp{
-    font-size: 20px;
+    font-size: 18px;
+    font-family: mon;
+}
+#sala{
+    text-align: center;
+}
+.write{
+    font-size: 18px;
+    font-family: mon;
 }
