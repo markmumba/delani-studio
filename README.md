@@ -1,4 +1,4 @@
-#DELANI STUDIO
+# Delani Studio
 
 
 
