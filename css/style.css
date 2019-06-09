@@ -57,7 +57,7 @@ h3{
     font-family: mon;
     font-size: 40px;
 }
-.style {
+#design {
     font-size: 18px;
     font-family: mon;
     
@@ -103,5 +103,8 @@ h6{
 a {
  float: right;
 }
+
+
+    
 
 
