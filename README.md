@@ -1,4 +1,4 @@
-#Delani studio
+####Delani studio
 ![delani studio logo](./assets/logo/oo.jpg)
 ### description
 This is a studio program that helps one practice the various jquery concepts.
