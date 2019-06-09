@@ -103,7 +103,9 @@ h6{
 a {
  float: right;
 }
-
+.footer{
+    align-content: center;
+}
 
     
 
