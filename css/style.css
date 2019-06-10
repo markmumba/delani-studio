@@ -103,7 +103,43 @@ a {
 .footer{
     align-content: center;
 }
-
+.textOne {
+    color: white;
+    position: relative;
+    text-align: center;
+    top: 50%;
+    font-family: Arial, Verdana;
+    color: white;
+    font-size: 5em;
+    font-weight: bold;
+    text-shadow: 1px 1px #fff;
+    border: 2px solid white;
+    padding-top: 5px;
+    padding-bottom:5px;
+}
+.imageOne
+{    
+    position:absolute;
+    left:0;
+    top:0;
+}
+#texttwo {
+    color: white;
+    position: relative;
+    text-align: center;
+    top: 50%;
+    font-family: Arial, Verdana;
+    color: white;
+    font-size: 5em;
+    font-weight: bold;
+    text-shadow: 1px 1px #fff;
+    border: 2px solid white;
+    padding-top: 5px;
+    padding-bottom:5px;
+}
+.imagetwo{
+    
+}
     
 
 

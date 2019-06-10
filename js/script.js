@@ -21,20 +21,18 @@ $(document).ready(function () {
 });
 
 $(document).ready(function() {
-    $('.text').hide();
-    $('img').animate({
+    $('.textOne').hide();
+    $('.imageOne').animate({
         opacity:1
         
     });
 
-    $('img').hover(function() {
+    $('.imageOne').hover(function() {
         $(this).stop().animate({opacity:.4},200);
-        $('.text').fadeIn();
+        $('.textOne').fadeIn();
 
     }, function() {
         $(this).stop().animate({opacity:1},500)
-        $('.text').fadeOut();
+        $('.textOne').fadeOut();
     });
-
-
 });
