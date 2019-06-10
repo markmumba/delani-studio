@@ -60,26 +60,23 @@ h3{
 #design {
     font-size: 18px;
     font-family: mon;
+    text-align: center;
     
 }
-#pen{
- text-align: center;
 
-}
-#dev{
-    text-align: center
+.write{
+    text-align: center;
+    font-family: mon;
+    font-size: 18px;
 }
 .klopp{
     font-size: 18px;
     font-family: mon;
-}
-#sala{
     text-align: center;
 }
-.write{
-    font-size: 18px;
-    font-family: mon;
-}
+
+
+
 h5{
 text-align: center;
 font-size: 40px;
